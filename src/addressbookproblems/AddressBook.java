@@ -1,9 +1,9 @@
-
-/*Ability to ADD MULTIPLE contact in address book using first name
+/*Ability to Edit ,Display,Insert,Delete
+ *Ability to Add Multiple Address Book
  * i/p from user for choice operation
  */
-package addressbookproblems;
 
+package addressbookproblems;
 import java.util.ArrayList;
 import java.util.ListIterator;
 import java.util.Scanner;
